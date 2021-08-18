@@ -1,1 +1,1 @@
-"# nitkc-ncku-ai-robotics" 
+# NITKC-NCKU Joint Lecture: AI Robotics Lab
