@@ -1,5 +1,5 @@
 classes = 1
 train  = JetBot_Tracking/train.txt
 valid  = JetBot_Tracking/test.txt
-names = cfg/obj.names
+names = cfg/jetbot.names
 backup = JetBot_Tracking/backup/yolov4-tiny_JetBot_Tracking_20211112_1640
